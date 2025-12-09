@@ -2,7 +2,8 @@
 
 ## Profile
 Name: Agie Winata  
-Id: 2902642726
+Id: 2902642726  
+Live: https://agiewinata.github.io/HCI_Quiz2/ 
 
 ## changes:
 first img:
