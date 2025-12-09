@@ -89,5 +89,5 @@ Not only that the flag button also give a brief summary regarding the sentiment
 of the data.
 
 ## tables
-![alt text](table.png)
+![alt text](Table.png)
 
